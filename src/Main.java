@@ -46,7 +46,7 @@ public class Main {
 	}
 	
 	public static void main(String[] args){
-		String tmp = "peanut12";
+		String tmp = "password";
 		for(int i = 0;i<10;i++){
 			tmp = hashText(tmp);
 		}
